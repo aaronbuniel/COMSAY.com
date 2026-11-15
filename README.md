@@ -1,2 +1,14 @@
 # COMSAY.com
-COMSAY FROM THE FUTURE BILIONAIRE
+COMSAY/
+│
+├── app.py
+├── requirements.txt
+├── templates/
+│   ├── index.html
+│   ├── login.html
+│   └── ...
+│
+└── static/
+    ├── css/
+    ├── js/
+    └── images/
